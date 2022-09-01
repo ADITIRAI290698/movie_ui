@@ -19,7 +19,7 @@ padding-left: 30
 
 
 -- h.header:
-site-logo: $hassets.files.static.header.download.svg
+site-logo: $hassets.files.static.header.download.png
 site-url: /
 site-name: FTD3
 current-url: /
